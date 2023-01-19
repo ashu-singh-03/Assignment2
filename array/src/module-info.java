@@ -5,5 +5,5 @@
  * @author user
  *
  */
-module Assignment2 {
+module array {
 }
