@@ -1,11 +1,11 @@
 package shapes;
-
-
+import java.util.*;
 public class Two {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Rectangle rect = new Rectangle();
+
+        Rectangle rect = new Rectangle();
         rect.input();
         rect.area();
 	}
@@ -48,3 +48,4 @@ class Rectangle extends Circle
         System.out.println("AREA OF RECTANGLE : "+area);
     }
 }
+
